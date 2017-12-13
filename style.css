@@ -1,0 +1,72 @@
+html{
+    background-color: white;
+
+}
+body{
+  background-color: #white;
+  margin: 0 auto;
+  width: 810px;
+  font-family: arial, helvetica, sans-serif;
+
+
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+/*header*/
+header {
+  height:200px;
+  padding-top: 20px;
+  background-image: url("images/home.jpg");
+  background-size:cover;
+
+}
+
+
+ul{
+  padding: 0;
+}
+
+li1{
+  display:inline;
+  padding-right: 56px;
+  padding-left: 56px;
+  font-size: 12px;
+  cursor: context-menu;
+}
+header li1:last-child {
+ border-left: 1px solid white;
+
+}
+
+.right {
+width: 200px
+float:right;
+
+}
+.right ul{
+  padding-right: 10px;
+  margin: 0 auto;
+
+
+}
+.Welcome {
+  padding-top: 0px;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin-top:-30px;
+
+
+}
+.beourguest{
+  padding-top: 15px;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  font-family:sans-serif;
+
+}
